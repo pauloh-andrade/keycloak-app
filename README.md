@@ -13,11 +13,11 @@ docker-compose up
 ## Back-end and Front-end Authentication
  - Open Id Connect:
     OAuth2 - Padrão de autorizacão
-        - resource owner: Usuário que solicita acesso "João"
-        - client: Aplicacão que solicitou autenticacão
-        - resource server: Servidor de autenticacão
-        - authorization server:  Servidor de autenticacão
-    + Login
+        + resource owner: Usuário que solicita acesso "João"
+        + client: Aplicacão que solicitou autenticacão
+        + resource server: Servidor de autenticacão
+        + authorization server:  Servidor de autenticacão
+    - Login
 
  - SAML2: auth server, xml
  - Conectar Azure, Google Cloud, LDAP
